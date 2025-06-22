@@ -2,7 +2,7 @@
 
 This is a Python-based GUI application designed to parse product information from saved local HTML files of Japanese vending machine operators. It allows users to load multiple files, automatically categorizes the products, calculates various price metrics, and exports the final report to CSV or XLSX format.
 
-![Screenshot](Vending-Machine-Data-Analyzer/images/screenshot.png)
+![Screenshot](Vending-Machine-Data-Analyzer v1.0/images/screenshot.png)
 
 ## Features
 
