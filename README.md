@@ -26,11 +26,11 @@ This is a Python-based GUI application designed to parse product information fro
 ```
 .
 ├── Vending-Machine-Data-Analyzer/
-│   ├── 爬.py                 # Or your preferred script name, e.g., main.py
-│   ├── README.md             # This instruction file
-│   ├── requirements.txt      # Required Python libraries
+│   ├── Vending-Machine-Data-Analyzer v1.0.py     # Or your preferred script name, e.g., main.py
+│   ├── README.md                                 # This instruction file
+│   ├── requirements.txt                          # Required Python libraries
 │   └── images/
-│       └── screenshot.png    # Application screenshot
+│       └── screenshot.png                        # Application screenshot
 └── (Your HTML source files)/
     ├── 1.html
     └── 4.html
@@ -51,7 +51,7 @@ This is a Python-based GUI application designed to parse product information fro
 3.  **Run the Application**:
     Execute the Python script from your terminal:
     ```bash
-    python 爬.py
+    python main.py
     ```
 
 4.  **Load and Analyze**:
